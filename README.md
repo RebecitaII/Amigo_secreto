@@ -20,10 +20,12 @@ La aplicación web de Amigo Secreto facilita la organización de este popular ju
   ![image](https://github.com/user-attachments/assets/2e8eb453-fc46-448d-83f9-1e6cb7566b4c)
   ![image](https://github.com/user-attachments/assets/e3b6ca9c-e2a8-41a0-ad3c-247182d987c6)
   
-- **Prevension de nombres repetidos o vacios**: Cada uno de los participantes solo puede ser ingresado una sola vez, tambien no se permite agregar un nombre vacio
-   
-  ![image](https://github.com/user-attachments/assets/0d85dd8b-e6a5-4dc1-b303-f31d97d45b80)
-  ![image](https://github.com/user-attachments/assets/4eea5273-0b6f-452f-be67-e2c4059a9e2c)
+- **Prevención de Nombres Repetidos o Vacíos**: Cada participante solo puede ser ingresado una vez, y no se permite agregar nombres vacíos.
+
+![image](https://github.com/user-attachments/assets/0d85dd8b-e6a5-4dc1-b303-f31d97d45b80)
+![image](https://github.com/user-attachments/assets/4eea5273-0b6f-452f-be67-e2c4059a9e2c)
+
+- **Validación de Entrada**: Manejo de errores y validaciones para mejorar la experiencia del usuario.  
 
 ## Tecnologías Utilizadas
 

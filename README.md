@@ -16,8 +16,9 @@ La aplicación web de Amigo Secreto facilita la organización de este popular ju
    ![image](https://github.com/user-attachments/assets/3052f6f2-49fe-41d2-afa9-b5a102bd24d8)
   
 - **Generar Sorteo**: Asigna de forma aleatoria un "amigo secreto" a cada participante.
-  
-   ![image](https://github.com/user-attachments/assets/e3b6ca9c-e2a8-41a0-ad3c-247182d987c6)
+
+  ![image](https://github.com/user-attachments/assets/2e8eb453-fc46-448d-83f9-1e6cb7566b4c)
+  ![image](https://github.com/user-attachments/assets/e3b6ca9c-e2a8-41a0-ad3c-247182d987c6)
   
 - **Prevension de nombres repetidos o vacios**: Cada uno de los participantes solo puede ser ingresado una sola vez, tambien no se permite agregar un nombre vacio
    
